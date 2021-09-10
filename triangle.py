@@ -87,13 +87,6 @@ class TestTriangles(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    # examples of running the code
-    # runClassifyTriangle(1,2,3)
-    # runClassifyTriangle(1,1,1)
-    # runClassifyTriangle(10,15,30)
-    # runClassifyTriangle(3,4,5)
-    # runClassifyTriangle("zoinks",4,5)
-
     # running classify triangle through main
     # not a triangle (sum of two sides is not greater than third) 
     runClassifyTriangle(1,2,3)
